@@ -37,6 +37,7 @@ public class Index extends ActionSupport {
 
     public void setUseMinifiedResources(boolean useMinifiedResources) {
         this.useMinifiedResources = useMinifiedResources;
+        int a =10;
     }
 }
 
