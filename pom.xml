@@ -9,7 +9,7 @@
     <name>struts2-angularjs</name>
 
     <properties>
-        <struts2.version>2.5.8</struts2.version>
+        <struts2.version>2.5.17</struts2.version>
         <log4j2.version>2.11.0</log4j2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
